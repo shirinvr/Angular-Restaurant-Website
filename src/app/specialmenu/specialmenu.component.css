@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.specialmenu{
+    background-color: #191616;
+    color: white;
+    height: 43rem;
+    font-family: 'Lexend';
+}
+.specialmenu h3{
+    font-family: 'pacifico';
+}
+
+/* 
+.col-md-4 .card{
+    width: 10rem;
+} */
+.card-img{
+    overflow: hidden;
+}
+.card-img img{
+    transition: transform 0.3s ease-in-out;
+}
+.card-img:hover img{
+    opacity: .6;
+    transform: scale(1.05) rotate(2deg);
+}

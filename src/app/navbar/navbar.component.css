@@ -1,0 +1,22 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Lexend');
+
+
+.navbar{
+    background-color: #A42929;
+    font-family: 'Lexend';
+}
+.d-flex .ms-auto .form-control{
+  border: none;
+  outline: none;
+}
+.d-flex .ms-auto .form-control:focus{
+  outline: none;
+}
+.btn .btn-light{
+  border: none;
+  outline: none;
+}

@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lexend');
+
+
+.booktable{
+    background-image: url('../../assets/images/book_table.png');
+    height: 39rem;
+}
+
+.booktable_desc{
+    width: 60rem;
+    height: 35rem;
+}
+.booktable_desc h1{
+    font-style: italic;
+    font-size: 5rem;
+}
+.booktable_desc h5{
+    width: 40rem;
+    font-family: 'Lexend';
+    line-height: 1.8rem;
+}
+.booktable_desc button{
+    background-color: #AD2B2B;
+    color: white;
+    width: 7.4rem;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+    font-family: 'Lexend';
+    border: #AD2B2B;
+}

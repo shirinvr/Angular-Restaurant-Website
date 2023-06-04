@@ -1,0 +1,15 @@
+.favorites{
+    background-color: #191616;
+    height: 50rem;
+    padding-top: 5rem;
+}
+
+.favorites1{
+    width: auto;
+    height: 25rem;
+}
+.card{
+    width: auto;
+    height: 25rem;
+    color: white;
+}
